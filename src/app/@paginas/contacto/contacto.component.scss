@@ -1,0 +1,18 @@
+.padre {
+    background: rgba(12, 115, 199, 0.356);
+    height: 100%;
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hijo {
+    background: rgba(0, 183, 255, 0.411);
+    width: 120px;
+}
+
+.titulo {
+    text-align: center;
+    color: white;
+}
